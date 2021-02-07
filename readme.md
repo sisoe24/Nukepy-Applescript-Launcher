@@ -1,6 +1,6 @@
 # Nuke script launcher
 
-Simple _applescript_ hack that focuses Nuke app and launches a script by _literally_ clicking on the _source a script_ button inside the _Scripting Workspace_. The script is made with vscode in mind, but you can still use it outside by remembering that it takes an argument: the file to source
+Simple _applescript_ hack that focuses Nuke app and launches a script by _literally_ clicking on the _source a script_ button inside the _Scripting Workspace_. The script is made with Visual Studio Code in mind, but you can still use it outside by remembering that it takes an argument: the file to source
 
 ```applescript
 osascript script_launcher.applescript path/to/file
