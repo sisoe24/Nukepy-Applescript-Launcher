@@ -5,7 +5,7 @@ Simple _applescript_ hack that focuses Nuke app and launches a script by _litera
 ```applescript
 osascript script_launcher.applescript path/to/file
 ```
-
+Or alternatively, you could use the [hammerspoon extension](https://github.com/sisoe24/Hammerspoon-Nukepy-Launcher) to launch it from everywhere.
 ## How to use (vscode)
 
 1. Place the  _script\_launcher.applescript_ in your _workspace root_ directory.
